@@ -4,12 +4,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/bot.js"
+     "start": "node ./src/bot.js"
   },
   "author": "million",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.18.1",
+     "mysql": "^2.18.1",
     "node-telegram-bot-api": "^0.63.0"
   },
   "keywords": [],
